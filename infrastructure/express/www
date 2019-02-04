@@ -4,8 +4,8 @@
  * Module dependencies.
  */
 
-const app = require('../config/app');
-const debug = require('debug')('nodejs-mongodb:server');
+const app = require('../../config/app');
+const debug = require('debug')('nodejs-mongodb:www');
 const http = require('http');
 
 /**
@@ -16,7 +16,7 @@ const port = normalizePort(process.env.PORT || '3000');
 app.set('port', port);
 
 /**
- * Create HTTP server.
+ * Create HTTP www.
  */
 
 const server = http.createServer(app);
@@ -50,7 +50,7 @@ function normalizePort(val) {
 }
 
 /**
- * Event listener for HTTP server "error" event.
+ * Event listener for HTTP www "error" event.
  */
 
 function onError(error) {
@@ -78,7 +78,7 @@ function onError(error) {
 }
 
 /**
- * Event listener for HTTP server "listening" event.
+ * Event listener for HTTP www "listening" event.
  */
 
 function onListening() {
