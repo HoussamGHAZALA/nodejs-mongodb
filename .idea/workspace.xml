@@ -1,32 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5eb248a8-3b94-43a4-be32-ed546d6a758c" name="Default" comment="Update readme">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/domain/data-base/car.model.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/routes/routes.js" />
+    <list default="true" id="5eb248a8-3b94-43a4-be32-ed546d6a758c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/api/carsResource.js" afterPath="$PROJECT_DIR$/api/cars.controller.js" />
-      <change beforePath="$PROJECT_DIR$/bin/www" afterPath="$PROJECT_DIR$/infrastructure/express/www" />
-      <change beforePath="$PROJECT_DIR$/config/app.js" afterPath="$PROJECT_DIR$/config/app.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/package.json" afterPath="$PROJECT_DIR$/node_modules/body-parser/package.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debounce/History.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debounce/Makefile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debounce/Readme.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debounce/component.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debounce/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debounce/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debounce/test.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/debounce/test.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/express/package.json" afterPath="$PROJECT_DIR$/node_modules/express/package.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/filewatcher/.eslintrc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/filewatcher/.npmignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/filewatcher/.travis.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/filewatcher/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/filewatcher/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/filewatcher/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -633,11 +610,6 @@
             <path>
               <item name="nodejs-mongodb" type="b2602c69:ProjectViewProjectNode" />
               <item name="nodejs-mongodb" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nodejs-mongodb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nodejs-mongodb" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -807,7 +779,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549052620432</updated>
-      <workItem from="1549052621798" duration="36253000" />
+      <workItem from="1549052621798" duration="36324000" />
     </task>
     <task id="LOCAL-00001" summary="fix post request">
       <created>1549110356933</created>
@@ -823,11 +795,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549110484927</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add mongoose">
+      <created>1549315477473</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549315477473</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36253000" />
+    <option name="totallyTimeSpent" value="36324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -846,7 +825,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -897,7 +876,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix post request" />
     <MESSAGE value="Update readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update readme" />
+    <MESSAGE value="Add mongoose" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add mongoose" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1096,7 +1076,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
           <folding />
         </state>
       </provider>
